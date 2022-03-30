@@ -78,6 +78,7 @@ A private-link resource is the destination target of a specified private endpoin
 | Azure Database for MySQL | Microsoft.DBforMySQL/servers | mysqlServer |
 | Azure Database for PostgreSQL - Single server | Microsoft.DBforPostgreSQL/servers | postgresqlServer |
 | Azure IoT Hub | Microsoft.Devices/IotHubs | iotHub |
+| Azure Device Provisioning Service | Microsoft.Devices/provisioningServices | iotDps |
 | Azure Digital Twins | Microsoft.DigitalTwins/digitalTwinsInstances | digitaltwinsinstance |
 | Azure Event Grid | Microsoft.EventGrid/domains | domain |
 | Azure Event Grid | Microsoft.EventGrid/topics  | topic |
